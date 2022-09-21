@@ -42,7 +42,7 @@ Sports news
 
 <img src="assets/screenshots/4.png" alt="">
 
-Technolofy News
+Technology News
 
 <img src="assets/screenshots/5.png" alt="">
 
@@ -57,6 +57,6 @@ Search for your favourite or latest topic of the news here.
 Check for the responsiveness of the site.
 
 <img src="assets/screenshots/8.png" alt="">
-<img src="assets/screenshots/9.png" alt="">
+
 
  
