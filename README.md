@@ -30,12 +30,24 @@ The landing page carries the Headlines.
 
 <img src="assets/screenshots/1.png" alt="">
 
-Followed by General news, Business news, Sports news, Technology news and than Entertainment related news.
+Followed by General news.
 
 <img src="assets/screenshots/2.png" alt="">
+
+Business news
+
 <img src="assets/screenshots/3.png" alt="">
+
+Sports news 
+
 <img src="assets/screenshots/4.png" alt="">
+
+Technolofy News
+
 <img src="assets/screenshots/5.png" alt="">
+
+Entertainment News 
+
 <img src="assets/screenshots/6.png" alt="">
 
 Search for your favourite or latest topic of the news here. 
