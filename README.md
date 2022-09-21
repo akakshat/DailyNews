@@ -28,5 +28,5 @@ Takes the news and display on the DailyNews Website.
 
 DailyNews Website screenshots 
 
-<img src="/Users/akshatgarg/Downloads/Web Dev/Internship/assets/screenshots/1.png" alt="">
+<img src="assets/screenshots/1.png" alt="">
  
