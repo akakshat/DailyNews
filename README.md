@@ -27,9 +27,11 @@ Takes the news and display on the DailyNews Website.
 ## Demo
 
 The landing page carries the Headlines.
+
 <img src="assets/screenshots/1.png" alt="">
 
 Followed by General news, Business news, Sports news, Technology news and than Entertainment related news.
+
 <img src="assets/screenshots/2.png" alt="">
 <img src="assets/screenshots/3.png" alt="">
 <img src="assets/screenshots/4.png" alt="">
@@ -37,9 +39,11 @@ Followed by General news, Business news, Sports news, Technology news and than E
 <img src="assets/screenshots/6.png" alt="">
 
 Search for your favourite or latest topic of the news here. 
+
 <img src="assets/screenshots/7.png" alt="">
 
 Check for the responsiveness of the site.
+
 <img src="assets/screenshots/8.png" alt="">
 <img src="assets/screenshots/9.png" alt="">
 
